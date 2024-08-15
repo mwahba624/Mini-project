@@ -1,0 +1,82 @@
+* {
+margin: 0;
+padding: 1px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+box-sizing: border-box;
+
+}
+body {
+    text-align: center;
+}
+.header-1 {
+    background-color: rgba(0, 100, 0, 0.834);
+    height: 35px;
+    text-align: right;
+    align-content: center;
+    padding-right: 20px;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+#info {
+    display: inline;
+    
+}
+.section-1 {
+    text-align: center;
+    border-top: 5px orange solid;
+    border-bottom: 5px orange solid;
+    background-color: antiquewhite;
+    height: 525px;
+
+}
+h1 {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    font-size: xx-large;
+}
+.mini {
+    padding-top: 10px;
+}
+.section-2 {
+    background-color: bisque;
+    height: 250px;
+
+}
+h2 {
+    padding-top: 30px;
+    font-size: x-large;
+
+}
+.div-1 {
+    border: 5px orange solid;
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    border-radius: 20px;
+}
+button {
+    font-size: 15px;
+background-color: darkslategray;
+padding: 10px 40px;
+margin: 10px;
+border-spacing: 30px;
+border-radius: 5px;
+color: white;
+margin-bottom: 0%;
+
+}
+
+footer {
+    background-color: darkgreen;
+    height: 45px;
+    text-align: center;
+    align-content: center;
+    color: white;
+    border-bottom: 5px orange solid;
+}
